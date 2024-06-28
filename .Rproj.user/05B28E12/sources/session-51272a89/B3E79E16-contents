@@ -1,0 +1,25 @@
+---
+title: "Borinquen Biodiversa"
+date: "2024-06-28"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Add stuff here 
+
+Blah blah blah
+
+This info is bs from R. Replace with some nice infographic
+```{r cars}
+summary(cars)
+```
+
+## Blah blah blah more space filler
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
